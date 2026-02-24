@@ -157,13 +157,7 @@ max      6.000000  512.329200
 
 Missing values handled successfully.
 
-<img width="489" height="391" alt="image" src="https://github.com/user-attachments/assets/b5b396c7-5393-4075-8880-9d418e6833ef" />
-<img width="489" height="391" alt="image" src="https://github.com/user-attachments/assets/4692eb88-fe1b-4c92-8ff3-58ead3bbcf8a" />
-<img width="540" height="391" alt="image" src="https://github.com/user-attachments/assets/9ca04694-5d0d-46b6-9d6b-2ea2be3ce9b1" />
-<img width="540" height="391" alt="image" src="https://github.com/user-attachments/assets/19be6fb0-20a3-4f48-93a7-8a33ae21550d" />
-<img width="540" height="391" alt="image" src="https://github.com/user-attachments/assets/5117784c-e11a-49fe-914e-220e08bed7a3" />
-<img width="589" height="410" alt="image" src="https://github.com/user-attachments/assets/3b8397f6-db27-4818-ae2e-d7257088ecf2" />
-<img width="589" height="410" alt="image" src="https://github.com/user-attachments/assets/c963917f-a39a-4190-ac18-3c345ac16310" />
+
 Cross Tabulation: Sex vs Survived
 
 Survived    0    1
@@ -179,7 +173,23 @@ Pclass
 2          86   76
 3         351  111
 
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/04c62d08-7080-41a4-92d1-8befa65504c3" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/addc7efe-7eb0-446b-b7c5-505a2a6966ea" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/d78ffd35-c6ea-4dc3-b11a-24b35c998943" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/b6f54661-3988-4eb8-ad0c-9255de0b7399" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/ce186208-ebb4-4913-ade1-63ec3c2fb4ab" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/6b73f2a6-adae-4d95-8a5e-9b0b08aa66ee" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/f4702f53-9313-47e4-ac95-ad43c49e1f58" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/2e3e713e-b4dc-42d5-b0ff-971de169e67a" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/47687672-6738-4a63-a1df-93fc732ef520" />
+
+
+
+
+
+
+
+
+
 
 
 
