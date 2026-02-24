@@ -1,11 +1,11 @@
 # EXNO2DS
-# AIM:
-      To perform Exploratory Data Analysis on the given data set.
+## AIM:
+To perform Exploratory Data Analysis on the given data set.
       
-# EXPLANATION:
+## EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-# ALGORITHM:
+## ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -22,7 +22,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
-## CODING AND OUTPUT
+## CODING:
 ```
 # ----------------------------------------
 # Step 1: Import Required Packages
@@ -128,76 +128,21 @@ correlation_matrix = data.select_dtypes(include=np.number).corr()
 sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm")
 plt.title("Correlation Heatmap - Titanic Dataset")
 plt.show()
-Dataset Loaded Successfully
 
-   PassengerId  Survived  Pclass  \
-0            1         0       3   
-1            2         1       1   
-2            3         1       3   
-3            4         1       1   
-4            5         0       3   
+````
+## OUTPUT:
 
-                                                Name     Sex   Age  SibSp  \
-0                            Braund, Mr. Owen Harris    male  22.0      1   
-1  Cumings, Mrs. John Bradley (Florence Briggs Th...  female  38.0      1   
-2                             Heikkinen, Miss. Laina  female  26.0      0   
-3       Futrelle, Mrs. Jacques Heath (Lily May Peel)  female  35.0      1   
-4                           Allen, Mr. William Henry    male  35.0      0   
+<img width="1223" height="696" alt="Screenshot 2026-02-23 190305" src="https://github.com/user-attachments/assets/455a8260-65fc-4f17-bf7f-ddcb32b892d2" />
+<img width="615" height="484" alt="Screenshot 2026-02-23 190318" src="https://github.com/user-attachments/assets/e6e394a2-386c-4ae1-a748-16affc0aa746" />
+<img width="608" height="482" alt="Screenshot 2026-02-23 190329" src="https://github.com/user-attachments/assets/a88273bc-dc7c-42d1-ac48-03bb9d0af94a" />
+<img width="672" height="479" alt="Screenshot 2026-02-23 190340" src="https://github.com/user-attachments/assets/1eaf7c74-acac-4527-aeeb-78008a9ce6f1" />
+<img width="540" height="391" alt="image" src="https://github.com/user-attachments/assets/8751543d-2af6-456d-8d0f-915d97e0703c" />
+<img width="540" height="391" alt="image" src="https://github.com/user-attachments/assets/4dc16920-540d-47df-a141-905aa0d0c5e5" />
+<img width="589" height="410" alt="image" src="https://github.com/user-attachments/assets/eba977ab-63b7-40e0-a218-035619d32ca6" />
+<img width="589" height="410" alt="image" src="https://github.com/user-attachments/assets/456330e4-8f58-4b49-aec0-b48d303d603c" />
+<img width="547" height="343" alt="image" src="https://github.com/user-attachments/assets/769fdaa9-a4d3-43c5-a9fb-19c4ad08b93a" />
+<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/6a215f49-c9dd-46f9-ab1e-55ef63db2c4b" />
 
-   Parch            Ticket     Fare Cabin Embarked  
-0      0         A/5 21171   7.2500   NaN        S  
-1      0          PC 17599  71.2833   C85        C  
-2      0  STON/O2. 3101282   7.9250   NaN        S  
-3      0            113803  53.1000  C123        S  
-4      0            373450   8.0500   NaN        S  
-
-Dataset Info:
-...
-max      6.000000  512.329200  
-
-Missing values handled successfully.
-<img width="731" height="580" alt="Screenshot 2026-02-24 083154" src="https://github.com/user-attachments/assets/22a66fb1-2396-42f9-9fd6-8be0391ce195" />
-<img width="734" height="581" alt="Screenshot 2026-02-24 083206" src="https://github.com/user-attachments/assets/bed0efc7-54ba-4458-addc-af3a2b1e8e02" />
-<img width="812" height="585" alt="Screenshot 2026-02-24 083216" src="https://github.com/user-attachments/assets/246f1ff9-f688-48b3-a015-e17343b99c22" />
-<img width="808" height="585" alt="Screenshot 2026-02-24 083226" src="https://github.com/user-attachments/assets/74f4abe4-5759-48c3-99f6-367279cfbd6e" />
-<img width="819" height="587" alt="Screenshot 2026-02-24 083235" src="https://github.com/user-attachments/assets/1b8a8043-3849-499e-8e26-34692892783c" />
-<img width="881" height="618" alt="Screenshot 2026-02-24 083245" src="https://github.com/user-attachments/assets/a7732d14-41c0-4442-a551-091158e73e6a" />
-<img width="882" height="614" alt="Screenshot 2026-02-24 083255" src="https://github.com/user-attachments/assets/1f7fee13-4183-43a2-a98b-bf5149f1ecc9" />
-
-
-
-Cross Tabulation: Sex vs Survived
-
-Survived    0    1
-Sex               
-female     72  157
-male      406   83
-
-Cross Tabulation: Pclass vs Survived
-
-Survived    0    1
-Pclass            
-1          41   53
-2          86   76
-3         351  111
-
-
-<img width="736" height="616" alt="Screenshot 2026-02-24 083315" src="https://github.com/user-attachments/assets/a2fbf5a6-2236-4664-927c-60006d70aed9" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-# RESULT
-        thus the result has been executed zuccessfully
+## RESULT:
+To perform Exploratory Data Analysis on the given data set is succesfully completed.
+       
