@@ -158,6 +158,16 @@ max      6.000000  512.329200
 Missing values handled successfully.
 
 
+
+<img width="731" height="580" alt="Screenshot 2026-02-24 083154" src="https://github.com/user-attachments/assets/57266934-7130-4c12-a09a-168928138de6" />
+<img width="734" height="581" alt="Screenshot 2026-02-24 083206" src="https://github.com/user-attachments/assets/e1ac772b-42e4-47b6-8609-a905c318b3e5" />
+<img width="812" height="585" alt="Screenshot 2026-02-24 083216" src="https://github.com/user-attachments/assets/4ca49164-d9d3-4390-9c6e-e66f4182b66d" />
+<img width="808" height="585" alt="Screenshot 2026-02-24 083226" src="https://github.com/user-attachments/assets/843a9995-c0cb-44ce-9c0b-3fa3710dbd95" />
+<img width="819" height="587" alt="Screenshot 2026-02-24 083235" src="https://github.com/user-attachments/assets/f6765fad-2137-49ec-a730-23763dcd4c65" />
+<img width="881" height="618" alt="Screenshot 2026-02-24 083245" src="https://github.com/user-attachments/assets/94e0fc00-a34e-4351-9a19-d0bbfed34b60" />
+<img width="882" height="614" alt="Screenshot 2026-02-24 083255" src="https://github.com/user-attachments/assets/edded4e1-1356-4ef0-8296-bd13bc37ba91" />
+
+
 Cross Tabulation: Sex vs Survived
 
 Survived    0    1
@@ -173,14 +183,7 @@ Pclass
 2          86   76
 3         351  111
 
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/addc7efe-7eb0-446b-b7c5-505a2a6966ea" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/d78ffd35-c6ea-4dc3-b11a-24b35c998943" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/b6f54661-3988-4eb8-ad0c-9255de0b7399" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/ce186208-ebb4-4913-ade1-63ec3c2fb4ab" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/6b73f2a6-adae-4d95-8a5e-9b0b08aa66ee" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/f4702f53-9313-47e4-ac95-ad43c49e1f58" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/2e3e713e-b4dc-42d5-b0ff-971de169e67a" />
-<img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/47687672-6738-4a63-a1df-93fc732ef520" />
+<img width="736" height="616" alt="Screenshot 2026-02-24 083315" src="https://github.com/user-attachments/assets/ce9fe505-b1eb-4660-8cee-ec2775397972" />
 
 
 
